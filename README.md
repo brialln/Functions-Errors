@@ -11,6 +11,6 @@ The program demonstrates the usage of require to validate input conditions, asse
 
 # Additional Information
 > Student Number: 8215752
-> Student Email Address: 8215752@ntc.edu.ph
-> Student Name: Brian Allen Lusanta Mayor
-> School: National Teachers College
+>> Student Email Address: 8215752@ntc.edu.ph
+>>> Student Name: Brian Allen Lusanta Mayor
+>>>> School: National Teachers College
